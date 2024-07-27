@@ -1,0 +1,5 @@
+python-dotenv
+instagrapi
+jdatetime
+pillow
+rich
